@@ -1,0 +1,6 @@
+{
+  "name": "LocalKart",
+  "description": "Every Local Shop, Online — Multi-vendor marketplace connecting customers, local shop owners, and platform admin",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
